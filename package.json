@@ -1,5 +1,5 @@
 {
-  "name": "@lioness1741/ajs-homeworks-platforms",
+  "name": "@lioness1741/ajs-homeworks-platforms1",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -14,14 +14,14 @@
 
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lioness1741/ajs-homeworks-platforms.git"
+    "url": "git+https://github.com/lioness1741/ajs-homeworks-platforms1.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lioness1741/ajs-homeworks-platforms/issues"
+    "url": "https://github.com/lioness1741/ajs-homeworks-platforms1/issues"
   },
-  "homepage": "https://github.com/lioness1741/ajs-homeworks-platforms#readme",
+  "homepage": "https://github.com/lioness1741/ajs-homeworks-platforms1#readme",
   "devDependencies": {
     "@babel/cli": "^7.22.6",
     "@babel/core": "^7.22.8",
